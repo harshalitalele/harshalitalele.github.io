@@ -1,0 +1,10 @@
+Things to include-
+1. Work Experience
+2. Curriculars
+3. Interests and hobbies
+4. Portfolio - display pictures or proofs of everything
+5. Links to - Linkedin, HackerEarth, LeetCode, Github, Stackoverflow profiles
+
+Sidebar menu
+
+View Resume from different angles like one axis can be years, chronological angle, another from technologies or something else
