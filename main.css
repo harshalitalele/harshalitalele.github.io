@@ -1,0 +1,53 @@
+body {
+    font-family: serif;
+}
+a {
+    text-decoration: none;
+}
+.container {
+    width: 80%;
+    height: 100%;
+    display: block;
+    margin: auto;
+    background-color: lightblue;
+    border-radius: 15px;
+}
+.inner-container {
+    display: inline-block;
+    padding: 0 15px;
+    border-radius: 15px;
+    height: 100%;
+    float: left;
+}
+.leftbar {
+    width: 20%;
+    background-color: lightcoral;
+}
+#picture {
+    border-radius: 50%; 
+    border: 2px solid black;
+    margin: auto;
+    display: table;
+}
+.tag {
+    margin: auto;
+    display: table;
+    font-size: 30px;
+    padding-top: 25px;
+}
+#professional-tag {
+    padding-top: 0px;
+    font-size: 25px;
+}
+.contact-details {
+    position: absolute;
+    bottom: 15px;
+}
+.social-icons {
+    width: 24px;
+    height: 24px;
+    margin: 10px;
+}
+.rightbar {
+    width: auto;
+}
