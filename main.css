@@ -51,4 +51,8 @@ a {
 .rightbar {
     width: 70%;
     background-color: white;
+    overflow: auto;
+}
+#about-me {
+    padding-top: 15px;
 }
