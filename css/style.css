@@ -12,6 +12,7 @@ a {
   -o-transition: .3s all ease;
   transition: .3s all ease;
   text-decoration: none;
+  color: white;
 }
 
 a:hover {
@@ -342,11 +343,11 @@ main {
   float: left;
   padding: 7%;
   position: relative;
+  background-color: darkolivegreen;
 }
 
 .home-button {
   top: 20px;
-  color: #F73859;
   font-size: 20px;
   position: absolute;
 }
