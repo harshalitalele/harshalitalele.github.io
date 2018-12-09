@@ -8,3 +8,14 @@ Things to include-
 Sidebar menu
 
 View Resume from different angles like one axis can be years, chronological angle, another from technologies or something else
+------------------------------------
+To Do:
+
+1. Add more details on Projects page
+2. Add details on Recognition page
+3. Add activities experiences
+4. Change photo
+5. Update intro
+6. Review page on different browsers
+7. Review professional experience details
+8. Add more remaining information and GitHub projects
