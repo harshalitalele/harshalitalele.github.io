@@ -1,0 +1,18 @@
+body, div {
+    margin: 0;
+}
+.topbar {
+    background-color: black;
+    height: 50px;
+    color: white;
+    padding: 5px;
+}
+.slab {
+    width: 25%;
+    background-color: aliceblue;
+    display: inline-block;
+    float: left;
+}
+.slab div {
+    padding: 5px 20px;
+}
