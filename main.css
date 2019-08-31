@@ -25,3 +25,9 @@ hr {
 .slab div {
     padding: 5px 20px;
 }
+.project {
+    width: 24.8%;
+    float: left;
+    background-color: red;
+    border-right: 1px solid blue;
+}
