@@ -8,6 +8,9 @@ body, div {
 hr {
     color: lightgray;
 }
+h4 {
+    margin: 5px 0;
+}
 .topbar {
     background-color: black;
     height: 40px;
